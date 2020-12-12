@@ -1,4 +1,5 @@
 /.ipynb_checkpoints/*
 /pic/fivefive/*
+/pic/PCA/*
 /Examples/TomCat/*.wav
-itchat.*
+/.vscode/*
